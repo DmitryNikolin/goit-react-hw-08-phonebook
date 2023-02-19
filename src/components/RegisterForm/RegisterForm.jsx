@@ -53,7 +53,7 @@ export const RegisterForm = () => {
           component="h5"
           sx={{
             fontWeight: '600',
-            color: 'rgb(0, 128, 255)',
+            color: 'black',
             marginBottom: '12px',
           }}
         >
