@@ -1,0 +1,16 @@
+.filter {
+  margin: 10px auto;
+  padding: 12px 40px;
+  border-radius: 8px;
+  width: 250px;
+  background-color: gray;
+  color: #fff;
+}
+
+.find {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
