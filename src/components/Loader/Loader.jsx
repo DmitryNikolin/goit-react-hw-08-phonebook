@@ -14,8 +14,8 @@ export const Loader = () => {
         ariaLabel="progress-bar-loading"
         wrapperStyle={{}}
         wrapperClass="progress-bar-wrapper"
-        borderColor="rgb(0, 128, 255)"
-        barColor="rgb(0, 128, 255)"
+        borderColor="gray"
+        barColor="gray"
       />
     </Box>
   );

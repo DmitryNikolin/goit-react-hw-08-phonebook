@@ -125,7 +125,7 @@ export const Animation = () => {
           },
           retina_detect: true,
           background: {
-            color: 'rgb(0, 128, 255)',
+            color: 'gray',
             image: '',
             position: '50% 50%',
             repeat: 'no-repeat',
